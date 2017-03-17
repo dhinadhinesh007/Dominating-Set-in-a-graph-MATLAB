@@ -1,3 +1,5 @@
+% Function to check whether all the vertices are visited or not.
+
 function p=atle(color,n)
 for i=1:1:n
    if(color(i)==0) 

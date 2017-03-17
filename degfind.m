@@ -1,3 +1,4 @@
+%Function to find maximum degree vertex in the graph.
 function k=degfind(g,n,color)
 t=0;
 for i=1:1:n
