@@ -5,3 +5,7 @@ Input: Number of vertices,edges and their connectivity.
 
 
 Output: The dominating vertices in the given graph.
+
+main.m: The Main Program.
+
+atle.m,degfind.m: Functions.
